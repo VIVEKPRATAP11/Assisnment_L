@@ -2,16 +2,13 @@ import { useState } from 'react';
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa6";
 import CardWrapper from '../ui/CardWrapper';
 
-const initialImages = [
-  "/src/assets/1.jpeg",
-  "/src/assets/2.jpeg",
-  "/src/assets/3.jpeg",
-
-
-];
+import img1 from "../../assets/1.jpeg";
+import img2 from "../../assets/2.jpeg";
+import img3 from "../../assets/3.jpeg";
 
 const PhotoWidget = () => {
-  const [images, setImages] = useState(initialImages);
+  // Corrected: Wrap images inside an array
+  const [images, setImages] = useState([img1, img2, img3]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showAlert, setShowAlert] = useState(false);
 
@@ -102,5 +99,3 @@ const PhotoWidget = () => {
 };
 
 export default PhotoWidget;
-
-
