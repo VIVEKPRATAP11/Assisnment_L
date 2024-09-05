@@ -1,0 +1,17 @@
+[
+    {
+      "id": "about",
+      "label": "About me",
+      "content": "Hello! I’m Dave, your dedicated Sales Representative at Salesforce. With 3 years of experience working at this incredible company, I specialize in helping businesses leverage Salesforce to grow and streamline their operations. Originally from Albany, NY, I’ve been enjoying life in Santa Carla for the past decade, where I live with my wife Tiffany and our lively twin daughters, Emma and Ella. When I'm not helping clients succeed, you can find me juggling the adventures of parenthood, especially during the mornings when I’m focused on getting the twins ready for school."
+    },
+    {
+      "id": "experiences",
+      "label": "Experiences",
+      "content": "As a sales rep with over 3 years at Salesforce, I have gained a deep understanding of CRM solutions and how they empower businesses of all sizes. Whether you're a startup looking to scale or an enterprise aiming to optimize customer relationships, I'm here to provide tailored solutions that fit your unique needs. Over the years, I've successfully partnered with clients across various industries, driving significant results and building lasting relationships."
+    },
+    {
+      "id": "recommended",
+      "label": "Recommended",
+      "content": "If you're looking for a sales representative who genuinely cares about your business's success, I highly recommend Dave. His expertise in Salesforce CRM and ability to connect with clients on a personal level makes him stand out. Dave consistently goes above and beyond to ensure that the solutions he provides are perfectly aligned with business goals, making him an invaluable partner for growth."
+    }
+  ]
