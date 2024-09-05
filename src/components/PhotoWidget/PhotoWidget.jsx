@@ -3,9 +3,11 @@ import { FaArrowLeft, FaArrowRight } from "react-icons/fa6";
 import CardWrapper from '../ui/CardWrapper';
 
 const initialImages = [
-  "/src/assets/test.jpeg",
-  "/src/assets/test.jpeg",
-  "/src/assets/test.jpeg",
+  "/src/assets/1.jpeg",
+  "/src/assets/2.jpeg",
+  "/src/assets/3.jpeg",
+
+
 ];
 
 const PhotoWidget = () => {
